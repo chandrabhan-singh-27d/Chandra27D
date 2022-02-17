@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandrabhan (call me CB)
 - 👀 I’m interested in learning Java and Python along with the libraries.
-- 🌱 I’m currently learning JavaScript, HTML, and CSS.
+- 🌱 Handy with HTML5, CSS, JS, NodeJS and ReactJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chandrabhansingh27d@gmail.com
 
